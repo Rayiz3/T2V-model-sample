@@ -1,6 +1,8 @@
 # T2V-model-sample
 sample videos from unofficial implementation of AnimateDiff &amp; VideoLDMs
 
+Detailed implementation is limited due to the security policy of NCSOFT VisionAI Lab
+
 # Single Video dataset (in AnimateDiff)
 
 ## 1. standard
