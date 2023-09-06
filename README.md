@@ -1,6 +1,20 @@
 # T2V-model-sample
 sample videos from unofficial implementation of AnimateDiff &amp; VideoLDMs
 
+# Single Video dataset (in AnimateDiff)
+
+## 1. standard
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/cf66daea-bf6f-46f5-b434-4cbec6c2e02b
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/fdd06f49-371f-4423-a130-ceaad73b65c3
+
+## 2. tilted
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/3f6bc94c-f14d-488f-ae97-8c69b2d884d7
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/bb669bf0-744f-47b7-ae4b-fbb50fbfdd3c
+
 # AnimateDiff
 
 ## 1. ToonYou
@@ -62,4 +76,16 @@ https://github.com/Rayiz3/T2V-model-sample/assets/47773655/e978dc3d-f895-4c56-87
 https://github.com/Rayiz3/T2V-model-sample/assets/47773655/3cf06c85-f872-4693-af6a-57f680c88090
 
 https://github.com/Rayiz3/T2V-model-sample/assets/47773655/70a806a1-0ab7-412c-9ab6-31a48ce079bf
+
+# VideoLDMs
+
+## ToonYou
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/3f32cb4d-bbfe-44e4-ae4a-7db9a84f6a64
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/d990c43b-09fd-4635-8a29-fa42483e8d8b
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/fd2aeb8d-4e4e-4c3c-922d-4bc0239f8408
+
+https://github.com/Rayiz3/T2V-model-sample/assets/47773655/4ee5643f-cb18-4c1b-8d67-630bf4fca2d2
 
